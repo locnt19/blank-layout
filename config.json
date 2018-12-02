@@ -1,0 +1,39 @@
+{
+	"config": {
+		"SEO": {
+			"AppName": "",
+			"mobile_color": "",
+			"cfg_name": "",
+			"cfg_url": "",
+			"analytics": "",
+			"seo_lang": "",
+			"seo_geo": "",
+			"seo_geo_latitude": "",
+			"seo_geo_longitude": "",
+			"app_facebook_ID": "",
+			"cfg_description": "",
+			"cfg_keywords": "",
+			"cfg_author": "",
+			"cfg_sitenameurl": "",
+			"app_facebook_adminsID": "",
+			"app_appleID": "",
+			"cfg_sitenameurlgoogle": "",
+			"verf_google": "",
+			"verf_bing": "",
+			"verf_yandex": ""
+		},
+		"favicondist": "./favicon/",
+		"website": "",
+		"title": "",
+		"author": {
+			"email": "locnt19@gmail.com",
+			"name": "ThanhLoc",
+			"phone": "0383303809",
+			"link": "https://github.com/locnt19",
+			"coding": "Coding by Thanh Loc"
+		},
+		"license": "MIT",
+		"name": "Layout Apps",
+		"version": "1.0"
+	}
+}
