@@ -21,7 +21,7 @@ URL: fb.com/rann199
 
 và
 
-> npm audit fix
+> npm audit fix --force
 
 cài đặt components
 
